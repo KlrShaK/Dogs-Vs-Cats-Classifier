@@ -1,8 +1,7 @@
 """Used Full dataset and added augmentation and used dropout to the dataset"""
 """Full Dataset Downloaded from Kaggle"""
 
-# todo When TRAINING THE MODEL PLUG IN THE LAPTOP "IT SIGNIFICANTLY INCREASES GPU PERFORMANCE"
-# todo use transfer learning to create a more accurate version
+
 import tensorflow as tf
 from  tensorflow.keras.optimizers import RMSprop
 from acc_plotter import plot_accuracy
