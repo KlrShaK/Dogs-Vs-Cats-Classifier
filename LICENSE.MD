@@ -1,6 +1,5 @@
 # MIT License
 
-MIT License
 Copyright (c) 2020 Shaurya K. Panwar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
